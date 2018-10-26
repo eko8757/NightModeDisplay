@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NightMode</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+    <string name="text1">Some Compenets</string>
+    <string name="textRadio">Radio Button</string>
+    <string name="checkbox">checkbox</string>
+    <string name="button">Button</string>
+    <string name="darkmode">Enable Dark Mode</string>
+    <string name="nightmode">Night Mode</string>
+</resources>
